@@ -1,10 +1,9 @@
 title: Markdown 学习记录
 categories:
 - MarkDown
-- 学习
 tags:
 - MarkDown
-- md
+
 ---
 
 Markdown 学习记录
